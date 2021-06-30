@@ -1,0 +1,35 @@
+.text {
+    font-size: 14px;
+    margin-top: -5px;
+    margin-left: 98px;
+}
+.quadrado {
+    z-index: 33;
+    height: 84px;
+    width: 84px;
+    background-color: var(--ion-color-primary);
+    position: relative;
+    top: -2px;
+}
+.bola {
+    z-index: 34;
+    height: auto;
+    width: 85px;
+    margin-left: -40px;
+}
+.item {
+    min-height: 50px !important;
+}
+.felipe {
+    font-size: 25px;
+    color: #C1B803;
+    margin-left: 20px;
+}
+.icon {
+    font-size: 30px;
+    color: #C1B803;
+}
+.size {
+    font-size: 18px;
+    color: #C1B803;
+}

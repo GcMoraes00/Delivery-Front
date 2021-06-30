@@ -1,0 +1,26 @@
+.logo {
+    width: auto;
+    height: 130px;
+    margin-top: 30px;
+}
+.espaco {
+    margin-bottom: 15px;
+}
+.font {
+    font-size: 15px;
+}
+.burguer {
+    width: auto;
+    height: 200px;
+}
+.arrow {
+    height: 100% !important;
+    width: auto !important;
+}
+.set {
+    height: 60px;
+    width: auto;
+}
+.background {
+    --background: linear-gradient(var(--ion-color-medium), var(--ion-color-light), var(--ion-color-medium));
+}
